@@ -19,6 +19,7 @@
     list-style-type: none;
     padding: 15px;
     font-family: 'Montserrat', sans-serif;
+    text-decoration: none; 
 }
 .img-con{
     height: 450px;
